@@ -30,4 +30,3 @@
 
  👉 [Scientific Calculator Apk](https://github.com/Ruhul12/Scientific-Calculator/blob/main/app-release.apk)
 
- 
